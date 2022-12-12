@@ -1,0 +1,9 @@
+train: /root/autodl-tmp/dataset/images/train
+val: /root/autodl-tmp/dataset/images/val
+#test: test.txt
+
+#number of classes
+nc: 1
+
+# class names
+names: ['hand']
