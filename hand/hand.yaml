@@ -1,0 +1,9 @@
+train: /root/yolov7/dataset/images/train
+val: /root/yolov7/dataset/images/val
+#test: test.txt
+
+#number of classes
+nc: 1
+
+# class names
+names: ['hand']
